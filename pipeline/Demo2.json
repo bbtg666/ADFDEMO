@@ -91,7 +91,7 @@
 									"referenceName": "DestinationFileCopy",
 									"type": "DatasetReference",
 									"parameters": {
-										"path": "giangnt/example",
+										"path": "giangnt",
 										"filename": {
 											"value": "@item().name",
 											"type": "Expression"

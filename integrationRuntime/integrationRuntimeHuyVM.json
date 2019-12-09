@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntimeHuyVM",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/2d7d1247-38dd-4d13-bab6-a9f87c2f0906/resourcegroups/giangnt/providers/Microsoft.DataFactory/factories/giangnt/integrationruntimes/integrationRuntimeHuyVM",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
